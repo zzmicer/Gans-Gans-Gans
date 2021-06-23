@@ -1,2 +1,2 @@
 # Gans-Gans-Gans
-Generative Adversarial Networks experiments
+It is all about GANs
